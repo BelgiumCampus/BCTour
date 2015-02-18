@@ -1,0 +1,427 @@
+This document contains several licensing agreements. Depending on which metaio product you are using on the API level, you will be subject to:
+- the metaio SDK Licensing Agreement, and/or 
+- the metaio Cloud Plugin Licensing Agreement
+
+License for metaio SDK (Version 22/05/2014) - Copyright (c) 2003-2014 metaio GmbH, 80335 Munich, Germany [METAIO]
+
+
+METAIO software licenses for the metaio SDK, including all demos, are subject exclusively to these Terms and Conditions. Any conflicting terms and conditions shall be deemed excluded, be it by express or implied agreement. 
+
+0- Definitions:
+
+- “About Box”- it is a box contained in the Derivative Works, accessible for the users of the Derivative Works, which gives credit to the author of the Derivative Works and which must include the information stated in Section 2.c.ii of this Agreement.
+
+- “Branding Features”- the Branding Features include, but are not limited to METAIO’s trademarks, watermarks, logos, web pages or other distinctive features.
+
+- “Confidential Information”- “Confidential Information” means the Licensed Software, accompanying documentation and any technical information disclosed by METAIO to Customer that is disclosed in writing, orally, graphically, electronically or by observation or otherwise, is identified as “confidential” or “proprietary” at the time of disclosure or under the circumstances, a person exercising reasonable business judgment would understand to be confidential or proprietary.	
+	
+- “Customer”- You or the organization/company on whose behalf you are acting and have the legal authority to bind.
+
+- “Derivative Works”- the end user Application software developed by Customer using the Licensed Software. 
+
+- “the Licensed Software”- means  metaio’s SDK.
+
+- “Public Space”- the Public Space includes, but is not limited to, the Apple App Store, Android market, any other online store or distribution channel in/by which Derivative Works are shared or published.
+
+- “Right to Deploy”- the right Customer has to publish his/her Derivative Works in the Public Space, subject to the use of Branding Features in the Derivative Works.
+
+- “The Parties”- Customer and METAIO.
+
+- “Updates”- means an update to the Licensed Software made available to Customer by METAIO at its sole discretion.
+
+- “Upgrades”- means any enhancement or improvement to the functionality of the Licensed Software (excluding Updates) made available to Customer by METAIO.
+
+
+1- License Grant to Use and Deploy the Software
+
+a-  Right to Use the Licensed Software- the Licensed Software is intended for use as a development tool to enable Customer to develop augmented reality Derivative Works (the “Permitted Use“). Subject to the Terms and Conditions of this agreement, METAIO hereby grants Customer a personal, non-exclusive, non-sublicensable, non-transferable, revocable, perpetual license to download, install, integrate, and use the Licensed Software in machine-readable form solely for the above mentioned Permitted Use, and subject to the Obligations set forth in Section 2. 
+
+b- Right to Deploy- Subject to the Terms and Conditions of this agreement, METAIO hereby grants Customer a personal, time-limited, non-exclusive and non-transferable, revocable Right to Deploy Derivative Works, subject to the Obligations set forth in Section 2.
+
+c- Subject to the Terms and Conditions of this Agreement set forth below, Customer may reproduce and use a reasonable number of copies of the documentation solely to support Customer’s Permitted Use of the Licensed Software.
+
+
+2- Obligations of Customer
+
+a. In order to obtain a Right to Use and Deploy the Licensed Software, Customer must accept the terms of this Agreement.
+
+b. METAIO grants Customer a Right to Deploy Derivative Works free of charge. The above mentioned Right to Use and Deploy is subject to Customer’s obligation to include Branding Features in Derivative Works, including but not limited to displaying Branding Features in video images and starting splash screens. However, Customer may pay METAIO a one-time license fee for obtaining either the metaio SDK Basic Deployment option or the metaio SDK Pro Deployment option- the exact amount, due date and payment conditions of which are set out in The Parties’ agreements. As used herein, “metaio SDK Basic Deployment option” means a personal, time-limited, non-exclusive, non-transferable, revocable right to publish Derivative Works without Branding Features and “metaio SDK Pro Deployment option” means a personal, time-limited, non-exclusive, non-transferable, revocable right to publish Derivative Works implementing a 3D tracking solution without Branding Features.
+
+c. If Customer has the Right to Use the Licensed Software and the Right to Deploy Derivative Works free of charge, but deactivates the functionalities of the SDK that has been integrated into the Derivative Work, Customer shall still be obliged to comply with all the obligations established in this Licensing Agreement. 
+
+d. Regardless of the Deployment option Customer may purchase, Customer’s Derivative Works must:
+
+i. be submitted to Public Space together with an EULA (End User License Agreement) that contains the information stated in Section 2.d.ii herein and that is as prohibitive as the Terms in this Agreement. If Customer uses Public Space’s EULA, Customer must verify that the License Terms of Public Space are as prohibitive as the Terms in this Agreement.
+
+ii. have an About Box, which includes the following statements:
+
+* This software has been developed using metaio SDK
+* For more information regarding metaio SDK license terms please go to: http://www.metaio.com/imprint/ 
+
+e. If Customer has a Right to Deploy or has purchased any of the Deployment options, Customer must obtain a deployment key and add it to the application directory before submitting the Derivate Works to Public Space.
+
+f. At its own expense, Customer shall procure, and install in good time, additional hardware and software, which may be necessary for use of the Licensed Software within its IT system or network.
+
+g. Upon acceptance of the terms and conditions of this Agreement by Customer, Customer is deemed to agree that the terms and conditions of this Agreement shall govern over any other additional terms, if any, stipulated or introduced by Customer, whether incorporated into any existing or subsequent purchase order, invoice, quotation or any other similar documentation that purports to vary the terms and conditions herein. Such other additional terms stipulated or introduced by Customer shall be considered void and of no effect unless agreed to in writing and signed by an authorized representative of METAIO.
+
+
+3- Obligations of METAIO
+
+ 	METAIO shall deliver the Licensed Software to Customer and, upon payment by Customer of all applicable fees, enable the metaio SDK Basic or Pro Deployment option.
+
+
+4- Restrictions 
+a- As between Customer and METAIO, METAIO and any third party licensors hereby retain all right, title and interest in and to the Licensed Software, including without limitation all copy-rights, patent rights, trademark rights and all other intellectual property rights therein or related thereto (“Intellectual Property Rights”). This Agreement does not convey or otherwise provide to Customer, title or any ownership rights or interests in or to any Intellectual Property Rights of METAIO or any of its affiliates, including but not limited to (1) those incorporated in the Licensed Software or any component of the Licensed Software, or (2) any METAIO patents, patent applications, works of authorship, trade secrets, know-how, ideas, or any other subject matter protectable under Intellectual Property Rights laws of any jurisdiction. METAIO and any third party licensors are the sole and exclusive owners of and retain all right, title and interest in and to all Licensed Software, including, all Intellectual Property Rights in each of the foregoing. Neither the delivery of any software nor any provision of this Agreement (including, without limitation, the rights and licenses granted by METAIO to Customer in Section 1) shall be deemed or construed to grant to Customer either expressly, by implication, by way of estoppel, or otherwise any right, license, or authority to infringe or immunity from infringement liability under (i) any of METAIO’s or its affiliates’ patents, including, without limitation, any patents covering or relating to the Licensed Software, or (ii) any non-patent Intellectual Property Rights of METAIO or its affiliates covering or relating to (a) any product or invention other than the Licensed Software or (b) any combination of any software or METAIO software with any other product or invention. Any rights not expressly granted to Customer herein are hereby reserved by METAIO. The foregoing limitations shall in no way be deemed a derogation of the express rights granted by METAIO in Section 1 to Customer.
+
+b- Customer shall not engage in any act or failure to act, that enables, causes or facilitates any use or distribution of the Licensed Software in a manner that causes any patents, copyrights or other Intellectual Property Rights owned or controlled by METAIO or any of its affiliates to become subject to any encumbrance or terms and conditions of any Open Source License. The rights granted by METAIO in Section 1 are conditioned upon Customer’s full compliance with the foregoing sentence. As used herein, “Open Source License” means any agreement that requires, as a condition of use, modification and/or distribution of any software or other software incorporated into, derived from or distributed with such software (each, a “work”), that complies with the following criteria: (a) the making available of source code, object code or design information regarding a work; (b) the granting of any permission or other right for creating modifications to or derivative works regarding a work; (c) the granting of any royalty-free license rights to any party under any patents or other Intellectual Property Rights regarding a work. By means of example and without limitation, “Open Source License” includes the following licenses and/or distribution models: (i) the GNU General Public License, (ii) the GNU Lesser General Public License, (iii) the Mozilla Public License or (iv) any other open source, free software or community licenses (such as, without limitation, those listed on http://www.opensource.org/licenses/alphabetical).
+
+c- Customer will not: (i) reverse engineer, disassemble, decompile, or translate the Licensed Software, or otherwise attempt to derive the source code of the Licensed Software, except if and only to the extent expressly permitted by applicable law; (ii) use the Licensed Software or any part of the Licensed Software, the documentation or Customer’s knowledge of the Licensed Software to create a product with the same or substantially the same functionalities as the Licensed Software, to create or develop any developer tools (including without limitation plug-ins and middleware) or any software other than augmented reality Derivative Works; (iii) transfer or assign this Agreement or any of the rights, duties or obligations hereunder; (iv) except as expressly permitted hereby, rent, lease, loan or otherwise in any manner provide or distribute the Licensed Software and/or documentation or any copy of thereof to any third party.
+
+d- Customer may not include in the Derivative Works (i) any content or materials of any kind (text, graphics, images, photographs, video, sounds, etc.) that comprise, depict or constitute profanity, pornographic images, nudity or explicit sexual themes, defamatory or libelous statements or material considered illegal or objectionable, or (ii) any malware, malicious or harmful code, program or other internal component (e.g., computer viruses, Trojan horses, etc. that could damage, destroy or adversely affect other software, firmware, hardware, data, systems, services or networks.) Customer shall not use the Licensed Software and/or documentation to create, develop or publish any Derivative Works that invades, violates or infringes the Intellectual Property rights (copyrights, patent rights, trade secrets, trademark or service mark rights, privacy, publicity, or any other rights) of any person or entity. In addition, Customer agrees not to design, develop or publish any Derivative Works with the objective to, damage any computer, network, or any feature or function of a wireless device, computer or network based on the use of such application. Customer represents and warrants that Customer has obtained all necessary permission and licenses from all copyright holders, if any, in material or code used or recorded in any Derivative Works that Customer creates or develops with the Licensed Software. The Right to Use the Licensed Software granted to Customer hereunder is solely for the Permitted Use expressly set forth in Section 1. The Licensed Software and documentation shall not be used for any other purpose.
+
+
+5- METAIO’s Intellectual Property Rights of Branding Features
+
+a- Customer acknowledges the rights, title and interest of METAIO in Branding Features, and agrees not to register any trademark comprised or confusingly similar to any Branding Features in any country. Customer agrees that all use of Branding Features will inure solely to the benefit of METAIO. Modifications of Branding Features performed by Customer are not permitted. 
+
+b- METAIO hereby grants Customer a non-exclusive, worldwide, non-sublicensable, non-transferable, revocable right to use Branding Features in Derivative Works. 
+
+c- Customer’s use of Branding Features shall not in any manner indicate, suggest or imply that METAIO is in any manner endorsing, approving, sponsoring or responsible for Customer’s Derivative Works.
+ 
+
+6- Support, Updates and Upgrades
+
+a- In the sole discretion of METAIO, metaio SDK Customers who have a Right to Use, a Right to Deploy or who have bought the metaio SDK Basic or Pro Deployment option, may receive Updates and/or Support for the use of the Licensed Software or deployment of the Derivative Works. Support, for metaio SDK Customers, will only be provided through METAIO’s website (www.metaio.com) and/or Forum.  
+
+b- Under this Agreement, Customer will not receive any Upgrades of the Licensed Software from METAIO.
+
+
+   7- Disclaimer of Warranties.
+	
+a- METAIO warrants that the Licensed Software is free from material defects at the time of delivery. Material defects are deviations from the product specification, including in the accompanying documentation, where such deviations significantly impair the value of the software or its fitness for ordinary use as described in the documentation. The Customer shall immediately notify METAIO in writing of any material defect that may occur, specifying how the material defect manifests itself, what effect it has, under what circumstances it occurs, and how it is to be classified from the Customer's point of view. Otherwise METAIO shall not be liable for the material defect.
+
+b- Provided that METAIO, having received notification of the material defect, has established that a material defect actually exists, it will, at its option, remedy such material defect (subsequent improvement or subsequent delivery) within a reasonable period of time. If an attempt to remedy the material defect is not successful within this period of time, and if such an attempt also fails within a further reasonable time limit to be set by the Customer, and if, furthermore, METAIO does not provide an interim solution, then the Customer can reduce (lower) the license fee or cancel the Agreement. Nothing of the aforesaid shall prejudice any claim for damages of the Customer. If any notified material defect cannot be ascribed to METAIO, then the Customer shall compensate METAIO for the time spent, as well as for the accrued costs (in particular travel expenses), in each case at the applicable rate. 
+
+c- METAIO is entitled to bypass any material defect that may arise with an interim solution if the material defect itself can only be remedied at unreasonable expense, and if the run time and response time of the licensed software are not seriously impaired as a result of the interim solution. 
+
+d- METAIO is not obligated to warrant if modifications have been made to the Licensed Software unless the Customer provides evidence that the modifications are in no way connected with the defect that has occurred and that such modifications do not significantly hinder analysis and remedying of the defect. 
+
+e- Claims of defects are statute barred within 12 months following the delivery of the Licensed Software. This does not apply if the corresponding defect has been maliciously concealed. Acquisition of further rights of use for licensed software already installed does not reset the period of limitation.
+
+f- EXCEPT FOR THE FOREGOING LIMITED WARRANTIES IN THIS SECTION 7, METAIO MAKES NO WARRANTY, EXPRESS OR IMPLIED, AS TO MERCHANTABILITY, FITNESS FOR ANY PARTICULAR PURPOSE, OR NON-INFRINGEMENT. NO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY METAIO OR ITS AUTHORIZED REPRESENTATIVES SHALL CREATE ANY REPRESENTATION OR WARRANTY.
+
+
+8- Overall Liability 
+
+a- METAIO shall be fully liable for damage caused intentionally or by gross negligence, if a defect has been maliciously concealed, if a specific condition has been guaranteed and for damages based on the Product Liability Act (“Produkthaftungsgesetz”).
+
+b- METAIO will only be liable for other damage if an obligation has been violated by simple negligence, compliance with which is of particular importance in order to achieve the purpose of the Agreement, and if the damage caused hereby is both typical and foreseeable based on the contractually agreed use of the Licensed Software. In such a case, the liability is restricted to an amount twice that of the license fees paid under the terms of this Agreement.
+
+c- In the event of initial impossibility of performance METAIO shall be liable only if it had knowledge of the impediment to performance, or if its lack of knowledge is due to gross negligence.  
+
+d- METAIO is only liable for the recovery of data provided that Customer has, appropriate to the level of risk, made regular backup copies, and ensured that the data from such backup copies can be reconstructed at reasonable expense. Any further liability for loss of data is excluded.
+
+e- In no event, shall METAIO under this Agreement be liable for injury or damage to business, lost profits, revenues or goodwill of any party hereto, or for any special, consequential, or incidental damages, whether for breach of warranty, breach of contract, repudiation of contract, termination, negligence, or otherwise, even if it shall have been advised of the possibility of such damages, excepting, however, any damages or other cost, expense or liability arising from a breach of confidentiality, personal injury, property damage, gross negligence, or willful misconduct.
+
+f- The above regulations shall also apply in favor of the employees and vicarious agents of METAIO.
+
+g- With the exception of claims based on tortious acts, Customer’s claims for damages, liability for which is limited in accordance with the above provision, become statute-barred within one year of the start of the statutory limitation period.
+
+h- This section states the entire liability of METAIO. In no event, shall METAIO be liable for any direct or indirect damage other than those stated in this Sections 8.
+	
+
+9- Indemnity.  
+
+Customer agrees to indemnify and hold METAIO, its subsidiaries and affiliates and each of their respective officers, directors and employees harmless from and against any and all claims, demands, causes of action, losses, liabilities, damages, costs and expenses, incurred or otherwise suffered by METAIO (including but not limited to costs of defense, investigation and reasonable attorney’s fees) arising out of, resulting from or in connection with (i) any use, reproduction or distribution of the Derivative Works, which causes an infringement of any patent, copyright, trademark, trade secret, or other Intellectual Property, publicity or privacy right of any third parties arising in any jurisdiction anywhere in the world, (ii) the download, distribution, installation, storage, execution, use or transfer of Derivative Works, related content or materials, by any person or entity except and solely to the extent such infringement is caused by the unmodified Licensed Software, or portions thereof, as supplied to Customer by METAIO under this Agreement, and/or (iii) any breach of this Agreement by Customer. If and as requested by METAIO, Customer agrees to defend METAIO in connection with any third party claims, demands, or causes of action resulting from, arising out of or in connection with any of the foregoing.
+
+
+10- Confidentiality 
+
+a- Both parties agree that the Licensed Software contains Confidential Information pertinent to METAIO. Customer undertakes to protect from disclosure to any third party the Licensed Software - including all accompanying documentation, any backup copies made, and all other information of METAIO identified or marked as Confidential and which is made accessible to Customer within the context of this Agreement. Customer shall not disclose, or permit the disclosure of, the Licensed Software and/or documentation in any form or any information relating to the Licensed Software and/or documentation to any third party without METAIO’s prior written permission. Customer acknowledges that the unauthorized use or disclosure of the METAIO’s Confidential Information would cause METAIO to incur irreparable harm and significant damages, the degree of which may be difficult to ascertain.  Accordingly, Customer agrees that METAIO will have the right to obtain immediate equitable relief to enjoin any unauthorized use or disclosure of its Confidential Information, in addition to any other rights and remedies that it may have at law or otherwise.
+
+b- The Confidential Information will not include information that: (i) is now or thereafter becomes generally known or available to the public, through no act or omission on the part of Customer, (ii) is expressly revealed by METAIO on a non-confidential basis, (iii) was known by Customer prior to receiving such information, or (iv) is rightfully acquired by Customer from a third party who has the right to disclose it and who provides it without restriction as to use or disclosure. The burden of proof for the existence of any of the above exceptions shall be borne by Customer.
+
+
+11- Feedback
+
+Customer, at its sole discretion, may report its findings and results of the use of the Licensed Software ("Feedback"). Feedback includes, without limitation, suggestions, comments, ideas or know how about the Licensed Software in direct connection with Customer’s evaluation and use (whether presented orally, in written form or otherwise) and Derivative Works or parts of the Derivative Works in machine readable form or source code. With respect to such Feedback, Customer hereby grants METAIO, under the applicable Intellectual Property Rights owned by Customer, the worldwide, non-exclusive, perpetual, irrevocable, royalty-free rights: (1) to use, copy and modify Feedback, to create derivative works and/or include such Feedback in the Licensed Software thereof, (2) to make (and have made), use, import, sell, offer for sale, lease or otherwise distribute any products or services of METAIO containing Feedback, and (3) to sublicense the foregoing rights to the extent a license is necessary for using products or services of METAIO.
+ 
+
+12- Extinction of Rights
+
+Customer's Right to Use the Licensed Software and Deploy the Derivative Works, with or without Branding Features, becomes extinct, without notice being required, if Customer breaches any of the above terms of the Agreement. In such a case, Customer is obliged, at the discretion of METAIO, to return or destroy the tangible items or embodiments, all copies and documentation. Any such destruction must be confirmed in writing to METAIO. 
+
+
+13- Waiver
+
+No failure to exercise, nor any delay in exercising, on the part of METAIO, any right or remedy hereunder shall operate as a waiver thereof, nor shall any single or partial exercise of any right or remedy prevent any further exercise thereof or the exercise of any other right or remedy. The waiver by METAIO of any breach shall not be deemed a waiver of any subsequent breach of the same or any other term of this Agreement.
+
+
+14- Severability
+
+If any provision of this Agreement shall be held or become invalid, this shall not prejudice the validity of the other provisions of this Agreement. METAIO and Customer agree on replacing the invalid provision with a valid provision, which most closely approximates to the commercial objective of The Parties. The same applies to eventual loopholes in this Agreement. 
+
+
+15- Audit rights 
+
+a- Upon written request by METAIO, Customer shall, within a period of 15 days following receipt of the request, supply METAIO in writing with all requested information on the type and extent of use, by Customer, of the Licensed Software at the time, which is necessary to examine whether such use complies with the provisions of this License Agreement. 
+
+b- During the term of this Agreement, METAIO is entitled, at its own expense, to have a member of the tax advising or business consulting professions who is sworn to professional secrecy, or any other independent expert, verify whether there has been compliance with the provisions of this License Agreement. The auditor must be granted access to inspect all documents and files deemed definitive for calculating the extent of use of the Licensed Software. If such verification reveals any inaccuracies, then the audit fees shall be borne by Customer, otherwise they will be borne by METAIO.
+
+
+
+16- Third Party Software/Licenses
+
+a- The Licensed Software may use or be integrated by third party software, which requires additional terms and conditions.  Such third party software additional terms and conditions, listed and identified in the Master List of TPS Licenses at http://www.metaio.com/licenses/tps-master-list, are part of and incorporated into this Agreement. By accepting this Agreement, Customer is also accepting the additional terms and conditions set forth herein. METAIO will not warranty, indemnify or otherwise be held liable for any third party software.
+b- THIS PRODUCT IS LICENSED UNDER THE MPEG-4 VISUAL PATENT PORTFOLIO LICENSE FOR THE PERSONAL AND NON-COMMERCIAL USE OF A CONSUMER FOR (i) ENCODING VIDEO IN COMPLIANCE WITH THE MPEG-4 VISUAL STANDARD (“MPEG-4 VIDEO”) AND/OR (ii) DECODING MPEG-4 VIDEO THAT WAS ENCODED BY A CONSUMER ENGAGED IN A PERSONAL AND NON-COMMERCIAL ACTIVITY AND/OR WAS OBTAINED FROM A VIDEO PROVIDER LICENSED BY MPEG LA TO PROVIDE MPEG-4 VIDEO. NO LICENSE IS GRANTED OR SHALL BE IMPLIED FOR ANY OTHER USE. ADDITIONAL INFORMATION INCLUDING THAT RELATING TO PROMOTIONAL, INTERNAL AND COMMERCIAL USES AND LICENSING MAY BE OBTAINED FROM MPEG LA, LLC. SEE HTTP://WWW.MPEGLA.COM. 
+17- Final provisions 
+
+a- Any modification or amendment to this Agreement must be made in writing to become effective. Verbal ancillary agreements are deemed not to exist. 
+
+b- The terms of this Agreement apply only to the version of the Licensed Software available when acquired. Any previous or subsequent license granted to Customer for use of the Licensed Software shall be governed by the terms and conditions of the agreement entered into when Customer purchases or acquires that version of the Licensed Software.
+
+c-  At METAIO’s request and upon breach of any of the Terms of this Agreement, Customer agrees to immediately remove the Derivative Works from Public Space.
+
+d- Customer hereby grants METAIO a non-exclusive, worldwide, non-sublicensable, non-transferable, irrevocable right to use Derivative Works and/or Customer’s name, logos, trademarks, webpages, or any other distinctive feature of Derivative Works and/or Customer for marketing purposes, press releases, product brochures and financial reports and, in so doing, refer to the fact that Customer has used the Licensed Software.
+
+e- Customer further agrees to METAIO's establishment of a hyperlink to Customer's corresponding online service within the framework of its own homepage. 
+
+f- Offsetting by Customer is excluded unless Customer’s claim is uncontested, ready for decision or defined by final enforceable judgment. The same applies to Customer’s rights of retention.
+
+g- This Agreement is subject exclusively to the substantive law of the Federal Republic of Germany- with the exception of the UN Convention on Contracts for the International Sales of Goods.
+
+h- The place of performance shall be the corporate seat of METAIO in Munich, Germany.
+
+i- The Parties agree that the regional court of Munich (LG München I) shall have exclusive jurisdiction for any disputes arising out of or in connection with this Agreement. METAIO is entitled to sue Customer at any other legal place of jurisdiction.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+License for metaio Cloud Plugin (Version 28/02/2014) - Copyright (c) 2003-2014 metaio GmbH, 80335 Munich, Germany [METAIO]
+
+
+METAIO software licenses for the metaio Cloud Plugin, including all demos, are subject exclusively to these Terms and Conditions. Any conflicting terms and conditions shall be deemed excluded, be it by express or implied agreement. 
+
+0- Definitions:
+
+- “About Box”- it is a box contained in the Application, accessible for users of the Application, which gives credit to the author of the Application and which must include the information stated in Section 2.c.ii of this Agreement.
+
+- “Application”- Application means the application developed by the Customer in which the Licensed Software is integrated. 
+
+- “Branding Features”- the Branding Features include but are not limited to METAIO’s trademarks, watermarks, logos, web pages or other distinctive features.
+
+- “Channel”- a “Channel” is a representation of Customer’s content within junaio. The Channel is also accessed through the Licensed Software in the Application via the junaio/metaio cloud, which may access the Customer’s server, or via Customer’s server. The use of the junaio/metaio cloud to access the Channel is subject to the Terms of Service found in the following link: http://www.metaio.com/imprint/ .  
+
+- “Commercial Terms”- the applicable sales terms established in the relevant quote or in the product description on the metaio website, in accordance to the subscription obtained or acquired by the Customer. 
+
+- “Confidential Information”- “Confidential Information” means the Licensed Software, accompanying documentation and any technical information disclosed by METAIO to Customer that is disclosed in writing, orally, graphically, electronically or by observation or otherwise, is identified as “confidential” or “proprietary” at the time of disclosure or under the circumstances, a person exercising reasonable business judgment would understand to be confidential or proprietary.
+	
+- “Customer”- You or the organization/company that you have full legal authority to bind to these Terms and Conditions.  
+   
+- “junaio”- metaio’s Augmented Reality browser.
+
+- “the Licensed Software”- means  the metaio Cloud Plugin.
+
+- “Public Space”- the Public Space includes, but is not limited to, the Apple App Store, Google Play, any other online store or distribution channel in/by which the Application is shared or published.
+
+- “License to Deploy”- the license Customer has in order to publish his/her/its Application(s), containing the Licensed Software as an integral part, in the Public Space.
+
+- “The Parties”- Customer and METAIO.
+
+- “Updates”- means an update to the Licensed Software made available to Customer by METAIO.
+
+- “Upgrades”- means any enhancement or improvement to the functionality of the Licensed Software (excluding Updates) made available to Customer by METAIO.
+
+
+1- License Grant to Use and Deploy the Software
+
+a- Right to Use the Licensed Software- the Licensed Software is intended for use as a tool to enable Customer to display junaio Channels on its Application(s) (the “Permitted Use“). Subject to the Terms and Conditions of this Agreement, METAIO hereby grants Customer a personal, non-exclusive, non-sublicensable, non-transferable, time-limited, revocable license to download, install and use the Licensed Software in machine-readable form solely for the above mentioned Permitted Use, and subject to the Obligations set forth in Section 2. 
+
+b- License to Deploy- Subject to the Obligations set forth in Section 2, all other Terms and Conditions in this Agreement and the Commercial Terms, METAIO hereby grants Customer a personal, time-limited, non-exclusive, non-sublicenceable, non-transferable, non-assignable, revocable License to Deploy the Licensed Software as an integral component of the Customer’s Application(s). The date of deployment will commence on the day of activation of the Licensed Software.
+
+c- Subject to the Terms and Conditions of this Agreement set forth below, Customer may reproduce and use a reasonable number of copies of the documentation solely to support Customer’s Permitted Use of the Licensed Software.
+
+d- METAIO may, at its sole discretion and in accordance to the Commercial Terms agreed upon between METAIO and Customer, provide Customer with other software or services together with the Licensed Software.
+
+
+2- Obligations of Customer
+
+a. In order to obtain a Right to Use and Deploy the Licensed Software, Customer must accept the terms of this Agreement together with the Terms of Service and the Commercial Terms.
+
+b. In accordance to the Commercial Terms applicable to the subscription obtained or acquired by the Customer, Customer: 
+i. must include Branding Features in the Customer’s Application(s), including but not limited to displaying Branding Features in video images and starting splash screens; or
+ii. may exclude Branding Features from the Customer’s Application(s)
+
+c. Customers shall only deploy the Licensed Software for the time period and, on the amount of Customer Applications specified in the applicable Commercial Terms.
+
+d. Customer’s Application must:
+
+i. be submitted to Public Space together with an EULA (End User License Agreement) that contains the information stated in Section 2.d.ii herein and that is as prohibitive as the Terms in this Agreement. If Customer uses Public Space’s EULA, Customer must verify that the License Terms of Public Space are as prohibitive as the Terms in this Agreement.
+
+ii. have an About Box, which includes the following statements:
+
+* The application has been developed using metaio’s Cloud Plugin to provide this application with an integrated Augmented Reality experience
+* For more information regarding the metaio Cloud Plugin license agreement please go to: http://www.metaio.com/imprint/ 
+
+ 
+If Customer has a License to Deploy, Customer must provide the Application name, Channel ID and unique identifier, for metaio to allow Customer access to the Channel through the Licensed Software integrated into the Application(s). Customer grants METAIO a non-exclusive, worldwide, non-sublicensable, non-transferable, irrevocable right to display the Channel in junaio.
+
+e. At its own expense, Customer shall procure, and install in good time, additional hardware and software, which may be necessary for use of the Licensed Software within its IT system or network.
+
+f. Upon acceptance of the terms and conditions of this Agreement by Customer, Customer is deemed to agree that the terms and conditions of this Agreement shall govern over any other additional terms stipulated or introduced by Customer, if any, whether incorporated into any existing or subsequent purchase order, invoice, quotation or any other similar documentation that purports to vary the terms and conditions herein. Such other additional terms stipulated or introduced by Customer shall be considered void and of no effect unless agreed to in writing and signed by an authorized representative of METAIO.
+
+
+
+3- Obligations of METAIO
+
+ 	METAIO shall deliver the Licensed Software to Customer and, upon payment by Customer of all applicable fees, enable the deployment of the Licensed Software.
+
+
+4- Restrictions 
+
+a. The Licensed Software only supports iOS and Android platforms.
+
+b. As between Customer and METAIO, METAIO and its third party licensors hereby retain all right, title and interest in and to the Licensed Software, including without limitation all copy-rights, patent rights, trademark rights and all other Intellectual Property Rights therein or related thereto. This Agreement does not convey or otherwise provide to Customer, title or any ownership rights or interests in or to any Intellectual Property Rights of METAIO or any of its affiliates, including but not limited to (1) those incorporated in the Licensed Software or any component of the Licensed Software, or (2) any METAIO patents, patent applications, works of authorship, trade secrets, know-how, ideas, or any other subject matter protectable under Intellectual Property Rights laws of any jurisdiction. METAIO and its third party licensors are the sole and exclusive owners of and retains all right, title and interest in and to all Licensed Software, including, all Intellectual Property Rights in each of the foregoing. Neither the delivery of any software nor any provision of this Agreement (including, without limitation, the rights and licenses granted by METAIO to Customer in Section 1) shall be deemed or construed to grant to Customer either expressly, by implication, by way of estoppel, or otherwise any right, license, or authority to infringe or immunity from infringement liability under (i) any of METAIO’s or its affiliates’ patents, including, without limitation, any patents covering or relating to the Licensed Software, or (ii) any non-patent Intellectual Property Rights of METAIO or its affiliates covering or relating to (a) any product or invention other than the Licensed Software or (b) any combination of any software or METAIO software with any other product or invention. Any rights not expressly granted to Customer herein are hereby reserved by METAIO. The foregoing limitations shall in no way be deemed a derogation of the express rights granted by METAIO in Section 1 to Customer.
+
+c. Customer shall not engage in any act or failure to act, that enables, causes or facilitates any use or distribution of the Licensed Software in a manner that causes any patents, copyrights or other Intellectual Property Rights owned or controlled by METAIO or any of its affiliates to become subject to any encumbrance or terms and conditions of any Open Source License. The rights granted by METAIO in Section 1 are conditioned upon Customer’s full compliance with the foregoing sentence. As used herein, “Open Source License” means any agreement that requires, as a condition of use, modification and/or distribution of any software or other software incorporated into, derived from or distributed with such software (each, a “work”), that complies with the following criteria: (a) the making available of source code, object code or design information regarding a work; (b) the granting of any permission or other right for creating modifications to or derivative works regarding a work; (c) the granting of any royalty-free license rights to any party under any patents or other Intellectual Property Rights regarding a work. By means of example and without limitation, “Open Source License” includes the following licenses and/or distribution models: (i) the GNU General Public License, (ii) the GNU Lesser General Public License, (iii) the Mozilla Public License or (iv) any other open source, free software or community licenses (such as, without limitation, those listed on http://www.opensource.org/licenses/alphabetical).
+
+d. Customer will not: (i) reverse engineer, disassemble, decompile, or translate the Licensed Software, or otherwise attempt to derive the source code of the Licensed Software, except if and only to the extent expressly permitted by applicable law; (ii) use the Licensed Software or any part of the Licensed Software, the documentation or Customer’s knowledge of the Licensed Software to create a product with the same or substantially the same functionalities as the Licensed Software, to create or develop any developer tools (including without limitation plug-ins and middleware) or any software other than the Application ; (ii) transfer or assign this Agreement or any of the rights, duties or obligations hereunder; (iii) remove or modify any marks or proprietary notices of METAIO; (iv)except as expressly permitted hereby, rent, lease, loan or otherwise in any manner provide or distribute the Licensed Software and/or documentation or any copy of thereof to any third party. 
+
+e. Customer may not include in the Application (i) any content or materials of any kind (text, graphics, images, photographs, video, sounds, etc.) that comprise, depict or constitute profanity, pornographic images, nudity or explicit sexual themes, defamatory or libelous statements or material considered illegal or objectionable, or (ii) any malware, malicious or harmful code, program or other internal component (e.g., computer viruses, Trojan horses, etc. that could damage, destroy or adversely affect other software, firmware, hardware, data, systems, services or networks.) Customer shall not use the Licensed Software and/or documentation to create, develop or publish any Application that invades, violates or infringes the Intellectual Property rights (copyrights, patent rights, trade secrets, trademark or service mark rights, privacy, publicity, or any other rights) of any person or entity. In addition, Customer agrees not to design, develop or publish any Application with the objective to, damage any computer, network, or any feature or function of a wireless device, computer or network based on the use of such application. Customer represents and warrants that Customer has obtained all necessary permission and licenses from all copyright holders, if any, in material or code used or recorded in any Application that Customer creates or develops with the Licensed Software. The Right to Use the Licensed Software granted to Customer hereunder is solely for the Permitted Use expressly set forth in Section 1. The Licensed Software and documentation shall not be used for any other purpose.
+
+
+5- METAIO’s Intellectual Property Rights of Branding Features
+
+f. Customer acknowledges the rights, title and interest of METAIO in Branding Features, and agrees not to register any trademark comprised or confusingly similar to any Branding Features in any country. Customer agrees that all use of Branding Features will inure solely to the benefit of METAIO. Modifications of Branding Features performed by Customer are not permitted. 
+
+g. METAIO hereby grants Customer a personal, non-exclusive, worldwide, non-sublicensable, non-transferable, non-assignable, revocable right to use Branding Features in the Application or Applications. 
+
+h. Customer’s use of Branding Features shall not in any manner indicate, suggest or imply that METAIO is in any manner endorsing, approving, sponsoring or responsible for Customer’s Application(s).
+
+
+6- Support, Updates and Upgrades
+
+i. At the sole discretion of METAIO, Customers of the Licensed Software may receive Updates and/or support for the use of the Licensed Software or deployment of the Licensed Software. Updates are made available to Customer by METAIO at its sole discretion. Support, for the Licensed Software Customers, will only be provided through METAIO’s website (www.metaio.com) and/or forum.  Premium support may be provided via email or phone, to certain Customers depending on the Commercial Terms of the subscription acquired.
+
+j. At the sole discretion of METAIO, METAIO may make certain internal server updates that affect the full functionality of the Licensed Software. In the event of such internal server update, Customer shall be required to download an Update made available by METAIO in order to restore full functionality of the Licensed Software.
+
+k.  Under this Agreement, Customer may, at the sole discretion of METAIO, receive Upgrades of the Licensed Software from METAIO. 
+
+
+7- Disclaimer of Warranties.
+
+l. METAIO warrants that the Licensed Software is free from material defects at the time of delivery. Material defects are deviations from the product specification (subject to change from time to time), including in the accompanying documentation, where such deviations significantly impair the value of the software or its fitness for ordinary use as described in the documentation. The Customer shall immediately notify METAIO in writing of any material defect that may occur, specifying how the material defect manifests itself, what effect it has, under what circumstances it occurs, and how it is to be classified from the Customer's point of view. Otherwise METAIO shall not be liable for the material defect.
+
+m. Provided that METAIO, having received notification of the material defect, has established that a material defect actually exists, it will, at its option, remedy such material defect (subsequent improvement or subsequent delivery) within a reasonable period of time. If an attempt to remedy the material defect is not successful within this period of time, and if such an attempt also fails within a further reasonable time limit to be set by the Customer, and if, furthermore, METAIO does not provide an interim solution, then the Customer can reduce (lower) the license fee or cancel the Agreement. Nothing of the aforesaid shall prejudice any claim for damages of the Customer. If any notified material defect cannot be ascribed to METAIO, then the Customer shall compensate METAIO for the time spent, as well as for the accrued costs (in particular travel expenses), in each case at the applicable rate. 
+
+n. METAIO is entitled to bypass any material defect that may arise with an interim solution if the material defect itself can only be remedied at unreasonable expense, and if the run time and response time of the licensed software are not seriously impaired as a result of the interim solution. 
+
+o. METAIO is not obligated to warrant if modifications have been made to the Licensed Software unless the Customer provides evidence that the modifications are in no way connected with the defect that has occurred and that such modifications do not significantly hinder analysis and remedying of the defect. 
+
+p. Claims of defects are statute barred within 12 months following the delivery of the Licensed Software. This does not apply if the corresponding defect has been maliciously concealed. Acquisition of further rights of use for licensed software already installed does not reset the period of limitation.
+
+q. EXCEPT FOR THE FOREGOING LIMITED WARRANTIES IN THIS SECTION 7, METAIO MAKES NO WARRANTY, EXPRESS OR IMPLIED, AS TO MERCHANTABILITY, FITNESS FOR ANY PARTICULAR PURPOSE, OR NON-INFRINGEMENT. NO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY METAIO OR ITS AUTHORIZED REPRESENTATIVES SHALL CREATE ANY REPRESENTATION OR WARRANTY.
+
+8- Overall Liability
+
+r. METAIO shall be fully liable for damage caused intentionally or by gross negligence, if a defect has been maliciously concealed, if a specific condition has been guaranteed and for damages based on the Product Liability Act (“Produkthaftungsgesetz”).
+
+s. METAIO will only be liable for other damage if an obligation has been violated by simple negligence, compliance with which is of particular importance in order to achieve the purpose of the Agreement, and if the damage caused hereby is both typical and foreseeable based on the contractually agreed use of the Licensed Software. In such a case, the liability is restricted to an amount twice that of the license fees paid under the terms of this Agreement.
+
+t. In the event of initial impossibility of performance METAIO shall be liable only if it had knowledge of the impediment to performance, or if its lack of knowledge is due to gross negligence.  
+
+u. METAIO is only liable for the recovery of data provided that Customer has, appropriate to the level of risk, made regular backup copies, and ensured that the data from such backup copies can be reconstructed at reasonable expense. Any further liability for loss of data is excluded.
+
+v. In no event, shall METAIO under this Agreement be liable for injury or damage to business, lost profits, revenues or goodwill of any party hereto, or for any special, consequential, or incidental damages, whether for breach of warranty, breach of contract, repudiation of contract, termination, negligence, or otherwise, even if it shall have been advised of the possibility of such damages, excepting, however, any damages or other cost, expense or liability arising from a breach of confidentiality, personal injury, property damage, gross negligence, or willful misconduct.
+
+w. The above regulations shall also apply in favor of the employees and vicarious agents of METAIO.
+
+x. With the exception of claims based on tortious acts, Customer’s claims for damages, liability for which is limited in accordance with the above provision, become statute-barred within one year of the start of the statutory limitation period.
+	
+
+9- Indemnity.  
+
+Customer agrees to indemnify and hold METAIO, its subsidiaries and affiliates and each of their respective officers, directors and employees harmless from and against any and all claims, demands, causes of action, losses, liabilities, damages, costs and expenses, incurred or otherwise suffered by METAIO (including but not limited to costs of defense, investigation and reasonable attorney’s fees) arising out of, resulting from or in connection with (i) any use, reproduction or distribution of the Application, which causes an infringement of any patent, copyright, trademark, trade secret, or other Intellectual Property, publicity or privacy right of any third parties arising in any jurisdiction anywhere in the world, (ii) the download, distribution, installation, storage, execution, use or transfer of the Application, related content or materials, by any person or entity except and solely to the extent such infringement is caused by the unmodified Licensed Software, or portions thereof, as supplied to Customer by METAIO under this Agreement, and/or (iii) any breach of this Agreement by Customer. If and as requested by METAIO, Customer agrees to defend METAIO in connection with any third party claims, demands, or causes of action resulting from, arising out of or in connection with any of the foregoing.
+
+
+10- Confidentiality 
+
+a- Both parties agree that the Licensed Software contains Confidential Information pertinent to METAIO. Customer undertakes to protect from disclosure to any third party the Licensed Software - including all accompanying documentation, any backup copies made, and all other information of METAIO identified or marked as Confidential and which is made accessible to Customer within the context of this Agreement. Customer shall not disclose, or permit the disclosure of, the Licensed Software and/or documentation in any form or any information relating to the Licensed Software and/or documentation to any third party without METAIO’s prior written permission. Customer acknowledges that the unauthorized use or disclosure of the METAIO’s Confidential Information would cause METAIO to incur irreparable harm and significant damages, the degree of which may be difficult to ascertain.  Accordingly, Customer agrees that METAIO will have the right to obtain immediate equitable relief to enjoin any unauthorized use or disclosure of its Confidential Information, in addition to any other rights and remedies that it may have at law or otherwise.
+
+b- The Confidential Information will not include information that: (i) is now or thereafter becomes generally known or available to the public, through no act or omission on the part of Customer, (ii) is expressly revealed by METAIO on a non-confidential basis, (iii) was known by Customer prior to receiving such information, or (iv) is rightfully acquired by Customer from a third party who has the right to disclose it and who provides it without restriction as to use or disclosure. The burden of proof for the existence of any of the above exceptions shall be borne by Customer.
+
+
+11- Feedback
+
+Customer, at its sole discretion, may report its findings and results of the use of the Licensed Software ("Feedback"). Feedback includes, without limitation, suggestions, comments, ideas or know how about the Licensed Software in direct connection with Customer’s use (whether presented orally, in written form or otherwise) and Application or parts of the Application in machine readable form or source code. With respect to such Feedback, Customer hereby grants METAIO, under the applicable Intellectual Property Rights owned by Customer, the worldwide, non-exclusive, perpetual, irrevocable, royalty-free rights: (1) to use, copy and modify Feedback, to create derivative works and/or include such Feedback in the Licensed Software thereof, (2) to make (and have made), use, import, sell, offer for sale, lease or otherwise distribute any products or services of METAIO containing Feedback, and (3) to sublicense the foregoing rights to the extent a license is necessary for using products or services of METAIO.
+ 
+
+12- Extinction of Rights
+
+Customer's Right to Use and License to Deploy the Licensed Software become extinct, without notice being required, if Customer breaches any of the above terms of the Agreement. In such a case, Customer is obliged, at the discretion of METAIO, to return or destroy the tangible items or embodiments, all copies and documentation. Any such destruction must be confirmed in writing to METAIO. 
+
+
+13- Waiver
+
+No failure to exercise, nor any delay in exercising, on the part of METAIO, any right or remedy hereunder shall operate as a waiver thereof, nor shall any single or partial exercise of any right or remedy prevent any further exercise thereof or the exercise of any other right or remedy. The waiver by METAIO of any breach shall not be deemed a waiver of any subsequent breach of the same or any other term of this Agreement.
+
+
+14- Severability
+
+If any provision of this Agreement shall be held or become invalid, this shall not prejudice the validity of the other provisions of this Agreement. METAIO and Customer agree on replacing the invalid provision with a valid provision, which most closely approximates to the commercial objective of The Parties. The same applies to eventual loopholes in this Agreement. 
+
+
+15- Audit rights 
+
+a- Upon written request by METAIO, Customer shall, within a period of 15 days following receipt of the request, supply METAIO in writing with all requested information on the type and extent of use, by Customer, of the Licensed Software at the time, which is necessary to examine whether such use complies with the provisions of this License Agreement. 
+
+b- During the term of this Agreement, METAIO is entitled, at its own expense, to have a member of the tax advising or business consulting professions who is sworn to professional secrecy, or any other independent expert, verify whether there has been compliance with the provisions of this License Agreement. The auditor must be granted access to inspect all documents and files deemed definitive for calculating the extent of use of the Licensed Software. If such verification reveals any inaccuracies, then the audit fees shall be borne by Customer, otherwise they will be borne by METAIO.
+
+
+16- Third Party Software
+
+The Licensed Software may use or be integrated by third party software, which requires additional terms and conditions.  Such third party software additional terms and conditions, listed and identified in the Master List of TPS Licenses at http://www.metaio.com/licenses/tps-master-list, are part of and incorporated into this Agreement. By accepting this Agreement, Customer is also accepting the additional terms and conditions set forth herein. METAIO will not warranty, indemnify or otherwise be held liable for any third party software.
+
+17- Final provisions 
+
+a- Any modification or amendment to this Agreement must be made in writing to become effective. Verbal ancillary agreements are deemed not to exist. 
+
+b- The terms of this Agreement apply only to the version of the Licensed Software available when acquired. Any previous or subsequent license granted to Customer for use of the Licensed Software shall be governed by the terms and conditions of the agreement entered into when Customer purchases or acquires that version of the Licensed Software.
+
+c- This Licensing Agreement, the Terms of Service, the Commercial Terms and any third party software additional terms and conditions contained herein, constitute the entire agreement between the parties and supersedes all communications, negotiations, arrangements and agreements, whether oral or written, between the parties with respect to the subject matter of this Agreement.
+
+d- At METAIO’s request and upon breach of any of the Terms of this Agreement, Customer agrees to immediately remove the Licensed Software from the Application.
+
+e- Customer hereby grants METAIO a non-exclusive, worldwide, non-sublicensable, non-transferable, irrevocable right to use the Application and/or Customer’s name, logos, trademarks, webpages, or any other distinctive feature of the Application and/or Customer for marketing purposes, press releases, product brochures and financial reports and, in so doing, refer to the fact that Customer has used the Licensed Software.
+
+f- Customer further agrees to METAIO's establishment of a hyperlink to Customer's corresponding online service within the framework of its own homepage. 
+
+g- Offsetting by Customer is excluded unless Customer’s claim is uncontested, ready for decision or defined by final enforceable judgment. The same applies to Customer’s rights of retention.
+
+h- This Agreement is subject exclusively to the substantive law of the Federal Republic of Germany- with the exception of the UN Convention on Contracts for the International Sales of Goods.
+
+i- The place of performance shall be the corporate seat of METAIO in Munich, Germany.
+
+j- The Parties agree that the regional court of Munich (LG München I) shall have exclusive jurisdiction for any disputes arising out of or in connection with this Agreement. METAIO is entitled to sue Customer at any other legal place of jurisdiction.
+
+

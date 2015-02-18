@@ -1,0 +1,38 @@
+package com.xample.app123;
+
+import com.metaio.sdk.ARViewActivity;
+import com.metaio.sdk.jni.IGeometry;
+import com.metaio.sdk.jni.IMetaioSDKCallback;
+import com.metaio.tools.io.AssetsManager;
+
+public class ARActivity extends ARViewActivity{
+	private String mTrackingFile;
+	private IGeometry mMan;
+	private IGeometry mBoat;
+	
+
+	@Override
+	protected int getGUILayout() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	protected IMetaioSDKCallback getMetaioSDKCallbackHandler() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	protected void loadContents() {
+	mTrackingFile = AssetsManager.getAssetPath("Assets1");
+		
+	}
+
+	@Override
+	protected void onGeometryTouched(IGeometry geometry) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

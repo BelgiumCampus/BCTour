@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.metaio.sdk.ARViewActivity"/>
+<fullyQualifiedTypeName name="com.metaio.sdk.jni.IGeometry"/>
+<fullyQualifiedTypeName name="java.lang.StrictMath"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="com.metaio.tools.io.AssetsManager"/>
+<fullyQualifiedTypeName name="android.provider.Telephony.MmsSms"/>
+<fullyQualifiedTypeName name="com.metaio.sdk.jni.Vector3d"/>
+<fullyQualifiedTypeName name="com.metaio.sdk.MetaioDebug"/>
+<fullyQualifiedTypeName name="java.lang.Error"/>
+<fullyQualifiedTypeName name="android.util.Log"/>
+<fullyQualifiedTypeName name="java.lang.Void"/>
+<fullyQualifiedTypeName name="android.view.View"/>
+<fullyQualifiedTypeName name="com.xample.app123.MainActivity.AssetsExtracter"/>
+<fullyQualifiedTypeName name="android.content.Intent"/>
+<fullyQualifiedTypeName name="com.xample.app123.R.layout"/>
+<fullyQualifiedTypeName name="com.xample.app123.ARActivity"/>
+<fullyQualifiedTypeName name="com.xample.app123.BuildConfig"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="dexedLibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/_Android/Examples_SDK/Example/bin/dexedLibs/android-support-v4-00da0e9ecc1ecdde231e5f5add554b5f.jar!/" />
+      <root url="jar://$PROJECT_DIR$/_Android/Examples_SDK/Example/bin/dexedLibs/metaiosdk-09b56541af1c305fc2eebf0e8763de9c.jar!/" />
+      <root url="jar://$PROJECT_DIR$/_Android/Examples_SDK/Example/bin/dexedLibs/metaiosdk-bf045a9125c06c3d2cd9b0c766edce0e.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="templatesContent_crossplatform">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/templatesContent_crossplatform/Earth_Occlusion.zip!/" />
+      <root url="jar://$PROJECT_DIR$/templatesContent_crossplatform/EarthIndicators.zip!/" />
+      <root url="jar://$PROJECT_DIR$/templatesContent_crossplatform/Earth.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Assets">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/_Windows/Examples_SDK/RGBDFaceTutorial/Assets/RayBan_Glasses.zip!/" />
+      <root url="jar://$PROJECT_DIR$/_Windows/Examples_SDK/RGBDFaceTutorial/Assets/Black_Glasses.zip!/" />
+      <root url="jar://$PROJECT_DIR$/_Windows/Examples_SDK/RGBDFaceTutorial/Assets/Tiger_Glasses.zip!/" />
+      <root url="jar://$PROJECT_DIR$/_Windows/Examples_SDK/RGBDFaceTutorial/Assets/Environment_Map_Clouds.zip!/" />
+      <root url="jar://$PROJECT_DIR$/_Windows/Examples_SDK/RGBDFaceTutorial/Assets/Purple_Glasses.zip!/" />
+      <root url="jar://$PROJECT_DIR$/_Windows/Examples_SDK/RGBDFaceTutorial/Assets/Red_Glasses.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

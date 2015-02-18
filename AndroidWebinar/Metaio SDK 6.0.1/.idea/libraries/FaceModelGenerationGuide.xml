@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="FaceModelGenerationGuide">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/_Windows/Examples_SDK/RGBDFaceTutorial/Assets/FaceModelGenerationGuide/Model_Dark_Overlay.zip!/" />
+      <root url="jar://$PROJECT_DIR$/_Windows/Examples_SDK/RGBDFaceTutorial/Assets/FaceModelGenerationGuide/Model_Vertical_Arrow.zip!/" />
+      <root url="jar://$PROJECT_DIR$/_Windows/Examples_SDK/RGBDFaceTutorial/Assets/FaceModelGenerationGuide/Model_Angle_Ruler.zip!/" />
+      <root url="jar://$PROJECT_DIR$/_Windows/Examples_SDK/RGBDFaceTutorial/Assets/FaceModelGenerationGuide/Model_Outline_Circle.zip!/" />
+      <root url="jar://$PROJECT_DIR$/_Windows/Examples_SDK/RGBDFaceTutorial/Assets/FaceModelGenerationGuide/Model_Angle_Arrow.zip!/" />
+      <root url="jar://$PROJECT_DIR$/_Windows/Examples_SDK/RGBDFaceTutorial/Assets/FaceModelGenerationGuide/Model_Dot.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

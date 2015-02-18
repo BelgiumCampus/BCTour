@@ -1,0 +1,76 @@
+package com.xample.app123;
+
+import android.provider.Telephony.MmsSms;
+import android.util.Log;
+import android.view.View;
+
+import com.metaio.sdk.ARViewActivity;
+import com.metaio.sdk.MetaioDebug;
+import com.metaio.sdk.jni.IGeometry;
+import com.metaio.sdk.jni.IMetaioSDKCallback;
+import com.metaio.sdk.jni.Vector3d;
+import com.metaio.tools.io.AssetsManager;
+
+public class ARActivity extends ARViewActivity{
+	private String mTrackingFile;
+	private IGeometry mMan;
+	private IGeometry mBoat;
+	
+
+	@Override
+	protected int getGUILayout() {
+		
+		return R.layout.ar_view;
+	}
+
+	@Override
+	protected IMetaioSDKCallback getMetaioSDKCallbackHandler() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	protected void loadContents() {
+	mTrackingFile = AssetsManager.getAssetPath("Assets1/TrackingData_MarkerlessFast.xml");
+	boolean result = metaioSDK.setTrackingConfiguration(mTrackingFile);
+	MetaioDebug.log("tracking file loaded "+result);
+String modelpATH = AssetsManager.getAssetPath("Assets1/metaioman.md2");
+if (modelpATH !=null) {
+	mMan= metaioSDK.createGeometry(modelpATH);
+	if (mMan!=null) {
+		mMan.setScale(new  Vector3d(4.0f,4.0f,4.0f));
+		mMan.setVisible(true);
+		MetaioDebug.log("geometry loaded "+modelpATH);
+	}else {
+		MetaioDebug.log(Log.ERROR," geometry not loaded "+modelpATH);
+	}
+	String modelpATH1 = AssetsManager.getAssetPath("Assets1/sailboat.zip");
+	if (modelpATH1 !=null) {
+		mMan= metaioSDK.createGeometry(modelpATH1);
+		if (mBoat!=null) {
+			mBoat.setScale(new  Vector3d(12.0f,12.0f,12.0f));
+			mBoat.setVisible(false);
+			MetaioDebug.log("geometry loaded "+modelpATH1);
+		}else {
+			MetaioDebug.log(Log.ERROR," geometry not loaded "+modelpATH1);
+		}
+	}
+}
+	}
+
+	@Override
+	protected void onGeometryTouched(IGeometry geometry) {
+		// TODO Auto-generated method stub
+		
+	}
+	public void ManOnclickButton(View V){
+		mMan.setVisible(true);
+		mBoat.setVisible(false);
+	}
+	public Void BoatOnclickButton(View v){
+		mMan.setVisible(false);
+		mBoat.setVisible(true);
+	}
+	}
+
+}
