@@ -193,7 +193,7 @@ public class BCHostels extends ARViewActivity{
 	{
 		final File path =
 				AssetsManager.getAssetPathAsFile(getApplicationContext(),
-						"TutorialLocationBasedAR/Assets/ExamplePOI.obj");
+						"TutorialLocationBasedAR/Assets/hostelPOI.obj");
 		if (path != null)
 		{
 			IGeometry geo = metaioSDK.createGeometry(path);

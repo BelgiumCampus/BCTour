@@ -184,7 +184,7 @@ public class BCoffices extends ARViewActivity{
 	{
 		final File path =
 				AssetsManager.getAssetPathAsFile(getApplicationContext(),
-						"TutorialLocationBasedAR/Assets/ExamplePOI.obj");
+						"TutorialLocationBasedAR/Assets/otherPOI.obj");
 		if (path != null)
 		{
 			IGeometry geo = metaioSDK.createGeometry(path);
