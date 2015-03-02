@@ -1,0 +1,36 @@
+1424703905761	Extracts string 'null' into R.string.BCTour
+1424705577572	Extracts string 'null' into R.string.classroom
+1424705646508	Extracts string 'null' into R.string.hostels
+1424705727605	Extracts string 'null' into R.string.other
+1424705870871	Extracts string 'null' into R.string.Header
+1424705928082	Extracts string 'null' into R.string.heading
+1424710403176	Delete element
+1424710661820	Delete element
+1424710674192	Delete element
+1424710686140	Delete element
+1424712462439	Delete element
+1424712775293	Delete element
+1424791322028	Delete elements
+1424791343876	Delete elements
+1424791365353	Delete elements
+1424795993203	Delete element
+1424796874674	Rename field 'mLamdaGeo'
+1424796900791	Rename local variable 'lambda'
+1424797092537	Rename field 'mEtaGeo'
+1424797166524	Rename local variable 'eta'
+1424797238542	Rename field 'mOmegaGeo'
+1424797267452	Rename local variable 'omega'
+1424797869146	Rename local variable 'admin'
+1424798091587	Rename field 'mCounsellorsOficce'
+1424798183804	Rename local variable 'counsellors'
+1424798267589	Rename field 'mSecurityOffice'
+1424798288689	Rename local variable 'security'
+1424800344149	Delete element
+1424813817890	Rename field 'mAdminOffice'
+1424813831086	Rename field 'mCounsellorsOficce'
+1424813844596	Rename field 'mSecurityOffice'
+1424813938355	Rename local variable 'admin'
+1424813952933	Rename local variable 'counsellors'
+1424813987841	Rename local variable 'security'
+1424877600726	Rename resource 'popup_bg-9.png'
+1424880930763	Rename resource 'NewPOI--p-382px.png'

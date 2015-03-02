@@ -1,0 +1,81 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bodybackground2"
+    android:gravity="top"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="15dp"
+    tools:context="com.example.bcnavigation.MainActivity" >
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:text="View Other departments"
+        android:width="350dp" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/textView1"
+        android:layout_marginBottom="18dp"
+        android:layout_marginRight="11dp"
+        android:src="@drawable/abc_ab_share_pack_holo_dark" />
+
+    <ImageButton
+        android:id="@+id/imageButton1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:src="@android:drawable/ic_menu_help" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/imageButton1"
+        android:layout_marginTop="17dp"
+        android:text="BC Navigation System"
+        android:textSize="@dimen/abc_dropdownitem_icon_width"
+        android:textStyle="bold|italic"
+        android:width="340dp" />
+
+    <Button
+        android:id="@+id/btnClassrooms"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignRight="@+id/imageView1"
+        android:layout_below="@+id/imageView1"
+        android:layout_marginTop="27dp"
+        android:text="View Classrooms"
+        android:width="350dp" />
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="fill_parent"
+        android:layout_height="200dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignTop="@+id/textView1"
+        android:layout_marginTop="34dp"
+        android:src="@drawable/batch" />
+
+    <Button
+        android:id="@+id/btnHostels"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/button1"
+        android:layout_alignParentLeft="true"
+        android:layout_alignRight="@+id/button1"
+        android:layout_marginBottom="15dp"
+        android:text="View the hostels"
+        android:width="350dp" />
+
+</RelativeLayout>

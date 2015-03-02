@@ -1,0 +1,49 @@
+package com.metaio.Example;
+
+import android.R.string;
+
+public class Classroom {
+	private int id;
+	private string name;
+	private string activity;
+	
+	public Classroom(int id, string name, string activity) 
+	{
+		this.id = id;
+		this.name = name;
+		this.activity = activity;
+	
+	}
+	
+	 public string getName(){
+	        return this.name;
+	    }
+	     
+	    public void setName(string name){
+	        this.name = name;
+	    }
+	     
+	    public int getID(){
+	        return this.id;
+	    }
+	     
+	    public void setId(int id){
+	        this.id = id;
+	    }
+	    
+	    public string getActivity(){
+	        return this.activity;
+	    }
+	     
+	    public void setActivity(string activity){
+	        this.activity = activity;
+	    }
+	    
+	    @Override
+	    public String toString() {
+	    	
+	    	return "Venue :" + name+"\n"
+	    			+"Activity :" + activity ;
+	    }
+
+}

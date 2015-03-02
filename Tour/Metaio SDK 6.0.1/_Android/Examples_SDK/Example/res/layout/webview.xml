@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bodybackground2"
+    android:gravity="top"
+    android:paddingTop="15dp"
+    tools:context="com.example.bcnavigation.MainActivity" >
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:text="View  departments"
+        android:width="350dp" />
+
+    <Button
+        android:id="@+id/btnclass"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/button2"
+        android:layout_alignLeft="@+id/button2"
+        android:text="View Classrooms"
+        android:width="350dp" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/button1"
+        android:layout_alignLeft="@+id/imageView1"
+        android:text="View hostels"
+        android:width="350dp" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/textView1"
+        android:layout_marginBottom="18dp"
+        android:layout_marginRight="11dp" />
+
+    <Button
+        android:id="@+id/btnrec"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/btnclass"
+        android:text="View Recreation" />
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="fill_parent"
+        android:layout_height="230dp"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/imageButton1"
+        android:layout_marginTop="22dp"
+        android:src="@drawable/batch" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignTop="@+id/imageView2"
+        android:layout_marginLeft="16dp"
+        android:src="@drawable/bclog" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="350dp"
+        android:layout_height="30dp"
+        android:layout_alignBottom="@+id/imageView3"
+        android:layout_alignParentLeft="true"
+        android:paddingLeft="60dp"
+        android:text="BC Navigation System"
+        android:textSize="20sp"
+        android:textStyle="bold|italic"
+        android:width="340dp" />
+
+    <ImageButton
+        android:id="@+id/imageButton1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/textView1"
+        android:layout_alignParentRight="true"
+        android:src="@android:drawable/ic_menu_help" />
+
+   
+</RelativeLayout>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="metaioSDK">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/_Unity/Example/Assets/Plugins/Android/metaioSDK.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

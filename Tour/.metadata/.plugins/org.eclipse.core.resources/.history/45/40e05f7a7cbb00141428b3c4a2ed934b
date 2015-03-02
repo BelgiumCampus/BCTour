@@ -1,0 +1,13 @@
+package com.metaio.Example;
+
+
+import com.metaio.sdk.MetaioDebug;
+import android.app.ActionBar;
+import android.app.Activity;
+import android.content.Intent;
+import android.os.Bundle;
+
+public class Home extends Activity {
+	
+
+}

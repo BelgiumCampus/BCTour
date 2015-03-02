@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;contact&apos; in &apos;com.metaio.Example.Databasehandler.addContact(...)&apos; to &apos;activity&apos;&#x0D;&#x0A;- Original project: &apos;SDK_Example&apos;&#x0D;&#x0A;- Original element: &apos;com.metaio.Example.Databasehandler.addContact(Activity).contact&apos;&#x0D;&#x0A;- Renamed element: &apos;contact&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;contact&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;com.metaio.Example{Databasehandler.java[Databasehandler~addContact~QActivity;@contact!2016!2031!2025!2031!QActivity;!0!true" name="activity" references="true" stamp="1425228806806" version="1.0"/>
+</session>

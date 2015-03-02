@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results>
+	<trackingdata url="FACE" />
+	<arel>tutorial.html</arel>
+	<object id="thought1">
+		<assets3d>
+			<texture>Assets/Thought1.png</texture>
+			<transform>
+				<translation>
+					<x>60.0</x><y>80.0</y><z>0.0</z>
+				</translation>
+				<rotation type="eulerdeg">
+					<x>0.0</x><y>0.0</y><z>0.0</z>
+				</rotation>
+				<scale>
+					<x>0.5</x><y>0.5</y><z>0.5</z>
+				</scale>
+			</transform>
+			<properties>
+				<coordinatesystemid>1</coordinatesystemid>
+			</properties>
+		</assets3d>
+	</object>
+	<object id="thought2">
+		<assets3d>
+			<texture>Assets/Thought2.png</texture>
+			<transform>
+				<translation>
+					<x>-60.0</x><y>-60.0</y><z>0.0</z>
+				</translation>
+				<rotation type="eulerdeg">
+					<x>0.0</x><y>0.0</y><z>0.0</z>
+				</rotation>
+				<scale>
+					<x>0.5</x><y>0.5</y><z>0.5</z>
+				</scale>
+			</transform>
+			<properties>
+				<coordinatesystemid>1</coordinatesystemid>
+			</properties>
+		</assets3d>
+	</object>
+	<sceneoptions>
+	    <sceneoption key="Camera">
+	        {
+	        	"facing" : 2
+	        }
+	    </sceneoption>
+	</sceneoptions>
+</results>

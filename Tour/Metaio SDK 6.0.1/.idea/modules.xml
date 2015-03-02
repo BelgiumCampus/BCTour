@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/_Unity/Example/Assets/Plugins/Android/Android.iml" filepath="$PROJECT_DIR$/_Unity/Example/Assets/Plugins/Android/Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_Android/Examples_SDK/CustomRenderer/CustomRenderer.iml" filepath="$PROJECT_DIR$/_Android/Examples_SDK/CustomRenderer/CustomRenderer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_Android/Examples_SDK/Example/Example.iml" filepath="$PROJECT_DIR$/_Android/Examples_SDK/Example/Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_Android/Templates_SDK/Template/Template.iml" filepath="$PROJECT_DIR$/_Android/Templates_SDK/Template/Template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_Android/Examples_CloudPlugin/Template/Template1.iml" filepath="$PROJECT_DIR$/_Android/Examples_CloudPlugin/Template/Template1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_Android/Templates_SDK/TemplateAREL/TemplateAREL.iml" filepath="$PROJECT_DIR$/_Android/Templates_SDK/TemplateAREL/TemplateAREL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_Android/metaioSDK/metaioSDK.iml" filepath="$PROJECT_DIR$/_Android/metaioSDK/metaioSDK.iml" />
+    </modules>
+  </component>
+</project>
+

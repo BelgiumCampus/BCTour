@@ -1,0 +1,9 @@
+package com.metaio.Example;
+
+import android.R.string;
+
+public class Classroom {
+	private string id;
+	private string 
+
+}
