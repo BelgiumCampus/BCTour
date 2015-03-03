@@ -69,4 +69,8 @@ public class Databasehandler extends SQLiteOpenHelper {
         db.insert(TABLE_NAME, null, values);
         db.close(); // Closing database connection
     }
+	
+	void update2(){
+		
+	}
 }
